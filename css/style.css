@@ -1,0 +1,90 @@
+		body{
+			margin: 0;
+		 
+           font-family: 'Roboto', sans-serif;
+       
+		}
+		.header{
+            background: #0F2027;
+            background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+            background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+
+            color:white;
+            padding: 200px 0px  ;
+		} 
+		.wrapper{
+			width: 1200px;
+			margin: 0px auto;
+		}  
+		h1{
+			margin: 0;
+			font-size: 120px;
+			font-weight: 900; 
+		}
+        
+    h2 {
+    margin: 0;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    letter-spacing: 3px;
+    }
+    
+   p {
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 300;
+     }
+
+     span{
+
+     	color:#007cff;
+    }
+     .gallery{
+     	padding: 100px 0;
+    }
+
+     .flex {
+      display: flex;
+      gap: 40px;
+    }
+
+     .colum-3 {
+        width: 33.33%;
+        background: #0F2027;
+        background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027);
+        background: linear-gradient(to left, #2C5364, #203A43, #0F2027);
+        padding: 25px;
+        color: #fff;
+        border-radius: 12px;
+   }
+
+   .colum-3 p{
+   	    font-size: 18px;
+   }
+   h3{
+   	font-size: 24px;
+   }
+
+    .colum-2{
+    	width:50% ;
+
+    }
+
+     img{
+     	max-width: 100%;
+     }
+      .galleryImg {
+    border-radius: 20px;
+ 
+   }
+
+    .blog{
+        background: #0F2027;
+        background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027);  
+        background: linear-gradient(to left, #2C5364, #203A43, #0F2027); 
+        padding: 100px 0;
+
+    }
+
+    
